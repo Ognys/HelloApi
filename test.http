@@ -1,0 +1,7 @@
+POST http://localhost:5114/sum
+Content-Type: application/json
+
+{
+    "NumOne": "2",
+    "b": "5"
+}
