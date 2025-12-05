@@ -25,3 +25,4 @@
 /Users/ognys/VSCodeProjects/CSharp/HelloApi/HelloApi/obj/Debug/net9.0/HelloApi.pdb
 /Users/ognys/VSCodeProjects/CSharp/HelloApi/HelloApi/obj/Debug/net9.0/HelloApi.genruntimeconfig.cache
 /Users/ognys/VSCodeProjects/CSharp/HelloApi/HelloApi/obj/Debug/net9.0/ref/HelloApi.dll
+/Users/ognys/VSCodeProjects/CSharp/HelloApi/HelloApi/obj/Debug/net9.0/HelloApi.sourcelink.json
